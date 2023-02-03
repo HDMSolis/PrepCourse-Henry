@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de modulo 2 de PrepCourse de Henry
+prueba de como crear un repositorio de clonarlo en mi computadora.
